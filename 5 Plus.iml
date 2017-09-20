@@ -20,6 +20,14 @@
                       <option name="wildcard" value="false" />
                     </MetadataType>
                     <MetadataType>
+                      <option name="entries">
+                        <list>
+                          <MetadataEntry>
+                            <option name="name" value="OpenCasesController" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                        </list>
+                      </option>
                       <option name="name" value="ApexClass" />
                     </MetadataType>
                     <MetadataType>
@@ -90,6 +98,14 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="HelloWorldApp" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="OpenCases" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="OpenCasesApp" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                         </list>
